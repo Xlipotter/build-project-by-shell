@@ -6,3 +6,6 @@ runing development at http://localhost:9000/#/
 
 # npm run test
 run until test
+
+# npm run build
+build the production code
